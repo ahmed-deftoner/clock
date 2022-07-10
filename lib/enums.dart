@@ -1,0 +1,1 @@
+enum menu_type{clock,timer,alarm,stopwatch}
